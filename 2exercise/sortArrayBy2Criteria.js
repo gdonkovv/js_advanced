@@ -8,8 +8,6 @@ function sortArrayBy2Criteria(input) {
         }
     });
     console.log(input.join("\n"));
-
-
 }
 sortArrayBy2Criteria(['alpha', 'beta', 'gamma']);
 sortArrayBy2Criteria(['Isacc', 'Theodor', 'Jack', 'Harrison', 'George']);
